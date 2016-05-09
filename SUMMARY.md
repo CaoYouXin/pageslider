@@ -1,5 +1,5 @@
 # Summary
 
 * [简介](README.md)
-* [First Chapter](chapter1.md)
+* [APP操作方式](chapter1.md)
 
